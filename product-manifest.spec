@@ -1,10 +1,9 @@
 Name: product-manifest
-Version: 0
+Version: %{_platform_product_release_build_id}
 Release: 1%{?dist}
 Summary: Product build information
 
 License: %{_platform_licence}
-Source0: %{name}-%{version}.tar.gz
 Vendor:  %{_platform_vendor}
 
 BuildArch: noarch
@@ -13,11 +12,13 @@ BuildArch: noarch
 Platform build information
 
 %prep
-%autosetup
 
 %install
 mkdir -p %{buildroot}/etc
-cp product-release %{buildroot}/etc/
+cat > %{buildroot}/etc/product-release <<EOF
+release=%{_platform_product_release_label}
+build=%{_platform_product_release_build_id}
+EOF
 
 %files
 /etc/product-release
