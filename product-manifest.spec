@@ -9,7 +9,7 @@ Vendor:  %{_platform_vendor}
 BuildArch: noarch
 
 %description
-Platform build information
+Product build information
 
 %prep
 
