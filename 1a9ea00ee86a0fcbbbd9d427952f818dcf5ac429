@@ -16,6 +16,24 @@
       "revId": "1a9ea00ee86a0fcbbbd9d427952f818dcf5ac429",
       "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b74a1b5e_c9246ccc",
+        "filename": "packages.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 233
+      },
+      "writtenOn": "2019-06-28T10:03:33Z",
+      "side": 1,
+      "message": "`infra_chart_reconfig_fluentd` playbook relies on it. OK I\u0027ll modify the SPEC file accordingly.\n\nShould we tidy up the package list in this file?\nI mean separating the packages based on repositories and sorting the names within the group.",
+      "parentUuid": "37107649_a094f265",
+      "revId": "1a9ea00ee86a0fcbbbd9d427952f818dcf5ac429",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": true
     }
   ]
 }
