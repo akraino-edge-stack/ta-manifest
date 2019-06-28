@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "37107649_a094f265",
+        "filename": "packages.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 204
+      },
+      "writtenOn": "2019-06-28T09:54:09Z",
+      "side": 1,
+      "message": "Who is requiring this? Please consider if the same should be added via RPM runtime dependencies (\"Requires: jq\" in SPEC)",
+      "revId": "1a9ea00ee86a0fcbbbd9d427952f818dcf5ac429",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": true
+    }
+  ]
+}
