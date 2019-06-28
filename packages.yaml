@@ -111,3 +111,4 @@ dpdk-tools:
 bash-completion:
 qemu-kvm-common-ev:
 recuserconfighandlers:
+jq:
