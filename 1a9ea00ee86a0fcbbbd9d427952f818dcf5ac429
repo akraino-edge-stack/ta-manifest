@@ -34,6 +34,24 @@
       "revId": "1a9ea00ee86a0fcbbbd9d427952f818dcf5ac429",
       "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "555288d4_14b8bdec",
+        "filename": "packages.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 204
+      },
+      "writtenOn": "2019-06-28T10:13:56Z",
+      "side": 1,
+      "message": "Any refactoring is always welcome :) Ideally this list should include only packages the product clearly wants to install and the rest should come from the dependencies. e.g. vim-enhanced should naturally stay here.",
+      "parentUuid": "b74a1b5e_c9246ccc",
+      "revId": "1a9ea00ee86a0fcbbbd9d427952f818dcf5ac429",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": true
     }
   ]
 }
