@@ -20,6 +20,7 @@ caas-chartrepo:
 caas-cpupooler:
 caas-custom_metrics:
 caas-danm:
+caas-danm-webhook:
 caas-elasticsearch:
 caas-etcd:
 caas-flannel:
