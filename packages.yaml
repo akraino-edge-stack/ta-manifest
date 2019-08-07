@@ -31,6 +31,7 @@ caas-instantiate:
 caas-kubedns:
 caas-kubernetes:
 caas-lcm:
+caas-logging:
 caas-metrics_server:
 caas-prometheus:
 caas-registry:
