@@ -8,14 +8,14 @@ teamd:
     uninstall: True
 wpa_supplicant:
     uninstall: True
-kernel-4.14.106-200.el7.x86_64:
+kernel-4.14.106-200.el7:
 image-provision:
 product-manifest:
 access-management:
 ansible-2.4.4.0-1.el7.ans.noarch:
-containerd.io-1.2.6-3.3.el7.x86_64:
-docker-ce-19.03.2-3.el7.x86_64:
-docker-ce-cli-19.03.2-3.el7.x86_64:
+containerd.io-1.2.6-3.3.el7:
+docker-ce-19.03.2-3.el7:
+docker-ce-cli-19.03.2-3.el7:
 caas-chartrepo:
 caas-cpupooler:
 caas-custom_metrics:
