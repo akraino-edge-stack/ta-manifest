@@ -42,7 +42,7 @@ caas-storage_local_static_provisioner:
 caas-swift:
 caas-utils:
 ceph:
-ceph-ansible-3.0.24:
+ceph-ansible-3.1.10:
 ceph-base:
 ceph-common:
 ceph-mds:
