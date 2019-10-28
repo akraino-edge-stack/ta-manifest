@@ -20,6 +20,7 @@ caas-chartrepo:
 caas-cpupooler:
 caas-custom_metrics:
 caas-danm:
+caas-dynamic_local_pv_provisioner:
 caas-elasticsearch:
 caas-etcd:
 caas-flannel:
@@ -37,6 +38,7 @@ caas-prometheus:
 caas-registry:
 caas-security:
 caas-sriovdp:
+caas-storage_local_static_provisioner:
 caas-swift:
 caas-utils:
 ceph:
