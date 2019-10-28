@@ -14,12 +14,13 @@ product-manifest:
 access-management:
 ansible-2.4.4.0-1.el7.ans.noarch:
 containerd.io-1.2.6-3.3.el7:
-docker-ce-19.03.2-3.el7:
-docker-ce-cli-19.03.2-3.el7:
+docker-ce-19.03.3-3.el7:
+docker-ce-cli-19.03.3-3.el7:
 caas-chartrepo:
 caas-cpupooler:
 caas-custom_metrics:
 caas-danm:
+caas-dynamic_local_pv_provisioner:
 caas-elasticsearch:
 caas-etcd:
 caas-flannel:
@@ -37,6 +38,7 @@ caas-prometheus:
 caas-registry:
 caas-security:
 caas-sriovdp:
+caas-storage_local_static_provisioner:
 caas-swift:
 caas-utils:
 ceph:
