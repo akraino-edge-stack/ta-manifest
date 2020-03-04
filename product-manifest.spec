@@ -1,6 +1,6 @@
 Name: product-manifest
 Version: %{_platform_product_release_build_id}
-Release: 1%{?dist}
+Release: 2%{?dist}
 Summary: Product build information
 
 License: %{_platform_licence}
