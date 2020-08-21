@@ -8,7 +8,8 @@ teamd:
     uninstall: True
 wpa_supplicant:
     uninstall: True
-kernel-4.14.106-200.el7:
+# kernel-4.14.106-200.el7:
+shellinabox:
 authconfig:
 image-provision:
 product-manifest:
